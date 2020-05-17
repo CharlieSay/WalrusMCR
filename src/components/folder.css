@@ -1,0 +1,29 @@
+.content {
+    color: white;
+}
+
+.content__text {
+    width: 100px;
+    text-align: center;
+}
+
+img {
+    margin: 0;
+}
+
+h1 {
+    font-size: 15px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+a:hover {
+    color: black;
+}
+
+p {
+    font-family: minecraft;
+}
