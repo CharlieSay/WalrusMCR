@@ -20,10 +20,10 @@ a {
     color: white;
 }
 
-a:hover {
-    color: black;
-}
-
 p {
     font-family: minecraft;
+}
+
+p:hover {
+    background-color:blue;
 }
